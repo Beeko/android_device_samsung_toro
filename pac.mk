@@ -16,7 +16,7 @@ $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := toro
-PRODUCT_NAME := cm_toro
+PRODUCT_NAME := pac_toro
 PRODUCT_BRAND := Google
 PRODUCT_MODEL := Galaxy Nexus
 PRODUCT_MANUFACTURER := Samsung
